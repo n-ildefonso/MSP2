@@ -68,3 +68,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### Resources
+
+- [PokeAPI](https://medium.com/@sergio13prez/fetching-them-all-poke-api-62ca580981a2)
+  This was used for fetching api in order to attain list creation. 
+- [Pokemon and Bootstrap](https://www.codeply.com/go/83QpVH2Cxa/react-bootstrap-4-endless-scroll-pokemon#)
+  TThis resource was used to understand how to implement bootstrap into react app. 
+
