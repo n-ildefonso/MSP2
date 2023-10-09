@@ -8,7 +8,7 @@ function App(){
     useEffect(() => {
       const fetchData = async () => {
           document.title = `${search} Pokemon`
-          const response = await fetch('https://pokeapi.co/api/v2/pokemon/search?term=')
+          const response = await fetch('https://pokeapi.co/api/v2/pokemon/')
           const resData = await response.json()
           if (resData.results.length > 0) {
               setData(resData.results)

@@ -5,7 +5,7 @@ const App = () => {
   return (
     <div>
       <h1>Pokemon Information</h1>
-      <Pokemon term="wartortle" /> {}
+      <Pokemon wartortle="wartortle" /> {}
     </div>
   );
 };
